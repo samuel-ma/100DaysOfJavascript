@@ -10,8 +10,8 @@ body{
 
 .container{
   width: 600px;
-  background-color: blue;
-  border-radius: 10px;
+  background-image: linear-gradient(to right, blue, rgb(56, 98, 212));
+  border-radius: 7px;
   padding-right: 10px;
   padding-left: 10px;
   padding-top: 10px;
