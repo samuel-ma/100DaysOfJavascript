@@ -50,14 +50,15 @@ body{
   font-size: smaller;
   width: 600px;
   margin-top: 40px;
+  animation: slide ease 1s;
 }
 
 @keyframes slide{
-  0%{
-    transform: translateY(-30)
+  0% {
+    transform: translateY(-30rem)
   }
 
-  100%{
+  100% {
     transform: translateY(0)
   }
 }
