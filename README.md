@@ -1,4 +1,3 @@
-# 100DaysOfJavascript
 
-<h1>15 Javascript Projects</h1>
+#15 Javascript Projects
 <p>Small projects built with Javascript</p>
