@@ -11,3 +11,7 @@
 
 ## Random Number Generator
 ![random](https://user-images.githubusercontent.com/82509653/180611432-ecefca49-1c09-4cfe-b1d4-6afb7f72b61b.PNG)
+
+## Palindrome
+![palindrome](https://user-images.githubusercontent.com/82509653/180611532-a3ff1290-9e60-48eb-9bae-99bdacbe8b35.PNG)
+
