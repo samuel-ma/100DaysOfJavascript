@@ -1,7 +1,6 @@
 
 
 # 15 Javascript Projects
-<p>Small projects built with Javascript</p>
 
 ## Modal
 ![submit](https://user-images.githubusercontent.com/82509653/180611368-63b0a47c-ad25-4a26-9709-be56c21d79e8.PNG)
